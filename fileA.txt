@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-hihi
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-file .
-=======
-file 2
->>>>>>> 5164156d8d45e29212255f6fa58d54c760f1d6b0
-=======
-this is more
->>>>>>> change fileA
->>>>>>> 82b14f249aafd4abcda8d90d6b62e8002a33a351
+this is b1
